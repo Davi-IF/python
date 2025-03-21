@@ -14,6 +14,6 @@ result = (convert_dias+convert_hours+convert_min+sec)
 convert_hours = (convert_day + hours) * 60
 convert_min = (convert_hours + min) * 60
 convert_sec = convert_min + sec
-result_sec = convert_seecee """
+result_sec = convert_seeceee"""
 
 print(result)
